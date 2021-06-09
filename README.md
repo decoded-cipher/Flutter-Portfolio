@@ -1,16 +1,17 @@
 # Flutter-Portfolio
 
-A new Flutter project.
+This is the final submission of Assignment 1 | Make with Flutter Bootcamp
 
-## Getting Started
+## Submission Details
 
-This project is a starting point for a Flutter application.
+- **Name :** Arjun Krishna
+- **Discord ID :** ArjunKrishna#9445
+- **College :** Kristu Jyoti College of Management and Technology
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/44474792/121345261-42c28180-c942-11eb-952d-31ae84ce761c.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Assignment Statement
+![image](https://user-images.githubusercontent.com/44474792/121345898-0ba0a000-c943-11eb-96b9-8c9eec34d607.png)
+
+Happy Learning 😊
